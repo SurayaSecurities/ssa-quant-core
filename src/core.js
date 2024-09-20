@@ -3,7 +3,7 @@ const axios = require('axios');
 class SSAQuantAPI {
   constructor(baseURL) {
     this.client = axios.create({
-      baseURL: baseURL || 'http://localhost:3000',
+      baseURL: baseURL || 'https://order-system-api-09bl.onrender.com',
       headers: { 'Content-Type': 'application/json' }
     });
   }

@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SurayaSecurities/ssa-quant-core.git"
-  },
+  "type": "git",
+  "url": "git+https://github.com/SurayaSecurities/ssa-quant-core.git"
+},
   "keywords": [
     "quant",
     "ssa",
@@ -22,7 +22,7 @@
     "axios": "^1.7.7"
   },
   "bugs": {
-    "url": "https://github.com/SurayaSecurities/ssa-quant-core/issues"
-  },
+  "url": "https://github.com/SurayaSecurities/ssa-quant-core/issues"
+},
   "homepage": "https://github.com/SurayaSecurities/ssa-quant-core#readme"
 }
